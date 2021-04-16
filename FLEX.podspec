@@ -38,6 +38,7 @@ Pod::Spec.new do |spec|
   spec.compiler_flags   = "-Wno-unsupported-availability-guard -Wno-strict-prototypes"
   spec.public_header_files = [ "Classes/*.h", "Classes/Manager/*.h", "Classes/Toolbar/*.h",
                                "Classes/GlobalStateExplorers/Globals/FLEXGlobalsEntry.h",
+                               "Classes/GlobalStateExplorers/Globals/FLEXGlobalsViewController.h",
                                "Classes/Core/**/*.h", "Classes/Utility/Runtime/Objc/**/*.h",
                                "Classes/ObjectExplorers/**/*.h", "Classes/Editing/**/*.h",
                                "Classes/Utility/Categories/*.h", "Classes/Utility/FLEXAlert.h",

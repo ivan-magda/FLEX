@@ -14,6 +14,7 @@
 #import <FLEX/FLEXExplorerToolbar.h>
 #import <FLEX/FLEXExplorerToolbarItem.h>
 #import <FLEX/FLEXGlobalsEntry.h>
+#import <FLEX/FLEXGlobalsViewController.h>
 
 #import <FLEX/FLEX-Core.h>
 #import <FLEX/FLEX-Runtime.h>
